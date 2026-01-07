@@ -1,0 +1,8 @@
+{
+  "name": " กองทัพ AI",
+  "description": "A military-grade strategic command center for managing autonomous AI agent swarms, tactical operations, and evolutionary business warfare.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
